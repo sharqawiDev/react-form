@@ -1,0 +1,23 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 650px;
+}
+
+h2 {
+  color: green;
+}
+
+input {
+  border-radius: 5px;
+  padding: 5px;
+  margin: 10px !important;
+  display: block;
+}
+
+.error {
+  color: red;
+  font-size: 14px;
+}
